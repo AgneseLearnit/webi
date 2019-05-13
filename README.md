@@ -1,5 +1,4 @@
-# webi
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>Projekts - mani hobiji</title>
